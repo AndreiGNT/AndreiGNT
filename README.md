@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AndreiGNT
+- 👋 Hi, I’m Andrei
 - 👀 I’m interested in - Software Engineering
 - 🌱 I’m currently learning - Web Development (Full Stack)
-- 🔭 I’m currently working on a - Personal Website
+- 🔭 I’m working on a - Personal Website
 - 📫 How to reach me - aagirnet@gmail.com
 
 <!---
