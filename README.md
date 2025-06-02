@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrei
 - 👀 I’m interested in - Software Engineering
-- 🌱 I’m currently learning - Web Development (Full Stack)
-- 🔭 I’m working on a - Personal Website
+- 🌳 I’m currently working - Web Development (Back End)
+- 🔭 I’m working part time on a - Personal Website
 - 📫 How to reach me - aagirnet@gmail.com
 
 <!---
